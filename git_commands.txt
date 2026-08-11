@@ -12,3 +12,8 @@ and helps avoid conflicts when pushing your changes.
 Example:
 # git pull origin main - Pull the latest changes from the remote repository's main branch to your local repository.
 # git branch <branch_name> - Create a new branch with the specified name.
+# git checkout <branch_name> - Switch to the specified branch.
+# git merge <branch_name> - Merge changes from the specified branch into the current branch.
+# git log - Show the commit history of the repository.
+# git diff - Show the differences between the working directory and the last commit.
+# git remote add origin <repository_url> - Add a remote repository with the specified URL.
