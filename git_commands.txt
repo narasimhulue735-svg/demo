@@ -17,3 +17,5 @@ Example:
 # git log - Show the commit history of the repository.
 # git diff - Show the differences between the working directory and the last commit.
 # git remote add origin <repository_url> - Add a remote repository with the specified URL.
+# git remote -v - Show the list of remote repositories associated with the local repository.
+# git fetch - Fetch the latest changes from the remote repository without merging them into your local branch
