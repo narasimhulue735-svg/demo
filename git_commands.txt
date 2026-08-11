@@ -1,7 +1,14 @@
-# git init - Initialize a new Git repository in the current directory.
 # git clone <repository_url> - Clone an existing Git repository from a remote server to your local machine.
+# git init - Initialize a new Git repository in the current directory.
 # git add <file> - Stage changes in a specific file for the next commit.
-# git add . - Stage all changes in the current directory for the next commit.
+# git status - Show the current status of the repository, including staged and unstaged changes.
 # git commit -m "commit message" - Commit staged changes with a descriptive message.
 # git status - Show the current status of the repository, including staged and unstaged changes.
 # git push - Push committed changes to a remote repository.
+
+Note : whenever you try to modify code first you have to pull the latest changes from the remote repository
+using `git pull` command. This ensures that you are working with the most up-to-date version of the code
+and helps avoid conflicts when pushing your changes.
+Example:
+# git pull origin main - Pull the latest changes from the remote repository's main branch to your local repository.
+# git branch <branch_name> - Create a new branch with the specified name.
