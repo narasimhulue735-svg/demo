@@ -1,0 +1,7 @@
+# git init - Initialize a new Git repository in the current directory.
+# git clone <repository_url> - Clone an existing Git repository from a remote server to your local machine.
+# git add <file> - Stage changes in a specific file for the next commit.
+# git add . - Stage all changes in the current directory for the next commit.
+# git commit -m "commit message" - Commit staged changes with a descriptive message.
+# git status - Show the current status of the repository, including staged and unstaged changes.
+# git push - Push committed changes to a remote repository.
